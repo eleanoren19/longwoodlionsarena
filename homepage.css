@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #F6F4EE;
+    font-family: "Poppins", sans-serif;
+}
+body {
+    font-family: 'Roboto',
+    sans-serif;
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    background-color: #556B2F;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navtext{
+    padding-right: 20px;
+    color: white;
+    background-color: #556B2F;
+}
+
+a{
+    text-decoration: none;
+}
